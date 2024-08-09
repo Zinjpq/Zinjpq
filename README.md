@@ -1,6 +1,6 @@
 [![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)](https://www.facebook.com/zinj73/)
 <h1 align="center">Hi 👋, I'm Zinj</h1>
-<h3 align="center">I study mechatronics at the UET, VNU</h3>
+<h3 align="center">I study Mechatronics at the UET, VNU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zinjpq&label=Profile%20views&color=0e75b6&style=flat" alt="zinjpq" /> </p>
 
