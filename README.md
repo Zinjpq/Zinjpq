@@ -8,18 +8,14 @@
 
 <h3 align="center">🚀 Mechatronics Student at UET, VNU</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=zinjpq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 ---
 
 ### 👨‍💻 About Me
 - 🌱 I’m currently learning **IoT, PLC, and more...**
 - ⚡ Fun fact: **I love running, gym, and coding.**
-- ❤️ I enjoy working on **Pwnagotchi** and building exciting projects.
+- ❤️ Contact me via **Pwnagotchi** at this link: [here](https://opwngrid.xyz/search/42b33e009dd32e7d3cd6acb4d17cf5e3cb18f6b2bdc07112ed171d62a1ffeeda).
+- 🤔 I often create **weird and unique projects**.
 - 💬 Feel free to ask me anything [here](https://github.com/Zinjpq/Zinjpq/issues).
-
 ---
 
 ### 🌐 Connect with Me
@@ -122,4 +118,3 @@ C                        1 repo              █████░░░░░░�
 ---
 
 **✨ Fun Reminder**: Life is like a code—debug your problems, compile your dreams, and execute your passion! 💻
-42b33e009dd32e7d3cd6acb4d17cf5e3cb18f6b2bdc07112ed171d62a1ffeeda
