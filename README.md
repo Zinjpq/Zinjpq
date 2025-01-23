@@ -47,6 +47,72 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-570.5%20thousand%20lines%20of%20code-blue)
+
+**🐱 My GitHub Data** 
+
+> 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 10 Contributions in the Year 2025
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 5 Public Repositories 
+ > 
+> 🔑 0 Private Repositories 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
+🌆 Daytime                59 commits          ██████████░░░░░░░░░░░░░░░   41.84 % 
+🌃 Evening                49 commits          █████████░░░░░░░░░░░░░░░░   34.75 % 
+🌙 Night                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.96 % 
+Tuesday                  20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+Wednesday                28 commits          █████░░░░░░░░░░░░░░░░░░░░   19.86 % 
+Thursday                 25 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Friday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
+Saturday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Sunday                   20 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+YAML                     20 mins             ██████████████░░░░░░░░░░░   55.61 % 
+Markdown                 16 mins             ███████████░░░░░░░░░░░░░░   44.39 % 
+
+🔥 Editors: 
+VS Code                  36 mins             █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  36 mins             █████████████████████████   100.00 % 
+```
+
+**I Mostly Code in TypeScript** 
+
+```text
+TypeScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
+XSLT                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+```
+
+
+
+
+ Last Updated on 23/01/2025 06:39:43 UTC
 <!--END_SECTION:waka-->
 
 ---
