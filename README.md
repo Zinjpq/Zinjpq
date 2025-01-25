@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,18 +90,18 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     1 hr 18 mins        ███████████████░░░░░░░░░░   61.40 % 
-Markdown                 46 mins             █████████░░░░░░░░░░░░░░░░   36.11 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+YAML                     1 hr 18 mins        ████████████░░░░░░░░░░░░░   48.46 % 
+Markdown                 46 mins             ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+Python                   34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        █████████████████████████   99.98 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+VS Code                  2 hrs 8 mins        ████████████████████░░░░░   78.90 % 
+PyCharm                  34 mins             █████░░░░░░░░░░░░░░░░░░░░   21.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 8 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 24/01/2025 18:40:23 UTC
+ Last Updated on 25/01/2025 18:37:09 UTC
 <!--END_SECTION:waka-->
 
 ---
