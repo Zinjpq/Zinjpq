@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs%2047%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -90,18 +90,18 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-YAML                     1 hr 18 mins        ████████████░░░░░░░░░░░░░   46.99 % 
-Markdown                 46 mins             ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-Python                   39 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.50 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+Python                   1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.41 % 
+YAML                     58 mins             █████████░░░░░░░░░░░░░░░░   36.72 % 
+Markdown                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
 
 🔥 Editors: 
-VS Code                  2 hrs 8 mins        ███████████████████░░░░░░   76.51 % 
-PyCharm                  39 mins             ██████░░░░░░░░░░░░░░░░░░░   23.49 % 
+VS Code                  1 hr 31 mins        ██████████████░░░░░░░░░░░   57.59 % 
+PyCharm                  1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.41 % 
 
 💻 Operating System: 
-Windows                  2 hrs 47 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +116,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 29/01/2025 18:40:19 UTC
+ Last Updated on 30/01/2025 18:40:10 UTC
 <!--END_SECTION:waka-->
 
 ---
