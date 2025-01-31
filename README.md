@@ -57,6 +57,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 18 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -90,18 +92,13 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.41 % 
-YAML                     58 mins             █████████░░░░░░░░░░░░░░░░   36.72 % 
-Markdown                 29 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.59 % 
-C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+Python                   1 hr 7 mins         █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  1 hr 31 mins        ██████████████░░░░░░░░░░░   57.59 % 
-PyCharm                  1 hr 7 mins         ███████████░░░░░░░░░░░░░░   42.41 % 
+PyCharm                  1 hr 7 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  2 hrs 38 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +113,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 30/01/2025 18:40:10 UTC
+ Last Updated on 31/01/2025 18:39:24 UTC
 <!--END_SECTION:waka-->
 
 ---
