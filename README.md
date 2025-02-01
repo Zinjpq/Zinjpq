@@ -57,8 +57,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -92,13 +90,13 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 7 mins         █████████████████████████   100.00 % 
+Python                   33 mins             █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PyCharm                  1 hr 7 mins         █████████████████████████   100.00 % 
+PyCharm                  33 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  1 hr 7 mins         █████████████████████████   100.00 % 
+Windows                  33 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -113,7 +111,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 31/01/2025 18:39:24 UTC
+ Last Updated on 01/02/2025 18:37:08 UTC
 <!--END_SECTION:waka-->
 
 ---
