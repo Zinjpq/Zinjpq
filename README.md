@@ -90,10 +90,12 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   0 secs              █████████████████████████   100.00 % 
+Objective-C              0 secs              ██████████████░░░░░░░░░░░   57.92 % 
+Python                   0 secs              ███████████░░░░░░░░░░░░░░   42.08 % 
 
 🔥 Editors: 
-PyCharm                  0 secs              █████████████████████████   100.00 % 
+VS Code                  0 secs              ██████████████░░░░░░░░░░░   57.92 % 
+PyCharm                  0 secs              ███████████░░░░░░░░░░░░░░   42.08 % 
 
 💻 Operating System: 
 Windows                  0 secs              █████████████████████████   100.00 % 
@@ -111,7 +113,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 07/02/2025 18:40:38 UTC
+ Last Updated on 08/02/2025 18:37:34 UTC
 <!--END_SECTION:waka-->
 
 ---
