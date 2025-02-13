@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2023%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2026%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,17 +92,18 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    7 mins              █████████████████████████   98.77 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    8 mins              ███████████████████░░░░░░   75.46 % 
+Python                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+C                        0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 🔥 Editors: 
-PDS                      7 mins              █████████████████████████   98.77 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+PDS                      8 mins              ███████████████████░░░░░░   75.46 % 
+PyCharm                  2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.33 % 
+VS Code                  0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 💻 Operating System: 
-Windows                  7 mins              █████████████████████████   100.00 % 
+Windows                  11 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -117,7 +118,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 12/02/2025 18:41:32 UTC
+ Last Updated on 13/02/2025 18:41:43 UTC
 <!--END_SECTION:waka-->
 
 ---
