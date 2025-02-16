@@ -47,7 +47,9 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%20hrs%2026%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-570.5%20thousand%20lines%20of%20code-blue)
 
@@ -55,14 +57,50 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 18 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
+🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   41.06 % 
+🌃 Evening                55 commits          █████████░░░░░░░░░░░░░░░░   36.42 % 
+🌙 Night                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.92 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+Tuesday                  20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+Wednesday                29 commits          █████░░░░░░░░░░░░░░░░░░░░   19.21 % 
+Thursday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.85 % 
+Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Saturday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.25 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Other                    8 mins              ███████████████████░░░░░░   77.16 % 
+Python                   2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+
+🔥 Editors: 
+PDS                      8 mins              ███████████████████░░░░░░   77.16 % 
+PyCharm                  2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.84 % 
+
+💻 Operating System: 
+Windows                  10 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -75,7 +113,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 15/02/2025 18:37:41 UTC
+ Last Updated on 16/02/2025 18:38:25 UTC
 <!--END_SECTION:waka-->
 
 ---
