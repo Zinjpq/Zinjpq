@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%207%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-5%20hrs%2015%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
@@ -66,21 +66,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-🌆 Daytime                66 commits          ███████████░░░░░░░░░░░░░░   42.58 % 
-🌃 Evening                55 commits          █████████░░░░░░░░░░░░░░░░   35.48 % 
-🌙 Night                  18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.61 % 
+🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+🌆 Daytime                66 commits          ███████████░░░░░░░░░░░░░░   42.31 % 
+🌃 Evening                55 commits          █████████░░░░░░░░░░░░░░░░   35.26 % 
+🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
-Tuesday                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Wednesday                29 commits          █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
-Thursday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.29 % 
-Friday                   19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
-Saturday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Tuesday                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.38 % 
+Wednesday                29 commits          █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
+Thursday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+Saturday                 23 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
 ```
 
 
@@ -90,20 +90,20 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   46 mins             ███████████░░░░░░░░░░░░░░   45.41 % 
-Other                    38 mins             █████████░░░░░░░░░░░░░░░░   37.43 % 
-Git Attributes File      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.56 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
-Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+Python                   49 mins             ███████████░░░░░░░░░░░░░░   44.93 % 
+Other                    41 mins             ██████████░░░░░░░░░░░░░░░   38.19 % 
+Git Attributes File      9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.89 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.22 % 
+Markdown                 2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
 
 🔥 Editors: 
-VS Code                  42 mins             ██████████░░░░░░░░░░░░░░░   41.41 % 
-PyCharmCommunityEdition  35 mins             █████████░░░░░░░░░░░░░░░░   35.25 % 
-PyCharm                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-PDS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 % 
+PyCharmCommunityEdition  42 mins             ██████████░░░░░░░░░░░░░░░   39.19 % 
+VS Code                  42 mins             ██████████░░░░░░░░░░░░░░░   39.10 % 
+PyCharm                  20 mins             █████░░░░░░░░░░░░░░░░░░░░   18.31 % 
+PDS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
 
 💻 Operating System: 
-Windows                  1 hr 41 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 49 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 20/02/2025 18:41:28 UTC
+ Last Updated on 21/02/2025 18:40:43 UTC
 <!--END_SECTION:waka-->
 
 ---
