@@ -90,20 +90,20 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   2 hrs 7 mins        ████████████████░░░░░░░░░   63.73 % 
-Other                    46 mins             ██████░░░░░░░░░░░░░░░░░░░   23.05 % 
-Markdown                 10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
-Git Attributes File      9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.95 % 
-Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.85 % 
+Python                   1 hr 25 mins        ███████████████░░░░░░░░░░   60.82 % 
+Other                    39 mins             ███████░░░░░░░░░░░░░░░░░░   28.52 % 
+Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Git Config               5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.09 % 
+Git                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🔥 Editors: 
-PyCharmCommunityEdition  1 hr 44 mins        █████████████░░░░░░░░░░░░   52.35 % 
-VS Code                  51 mins             ██████░░░░░░░░░░░░░░░░░░░   25.76 % 
-PyCharm                  40 mins             █████░░░░░░░░░░░░░░░░░░░░   20.03 % 
-PDS                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.86 % 
+PyCharmCommunityEdition  1 hr 12 mins        █████████████░░░░░░░░░░░░   52.11 % 
+VS Code                  43 mins             ████████░░░░░░░░░░░░░░░░░   30.87 % 
+PyCharm                  20 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.36 % 
+PDS                      3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 
 💻 Operating System: 
-Windows                  3 hrs 20 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 19 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -118,7 +118,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 24/02/2025 18:42:16 UTC
+ Last Updated on 25/02/2025 18:42:28 UTC
 <!--END_SECTION:waka-->
 
 ---
