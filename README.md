@@ -57,8 +57,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 24 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 5 Public Repositories 
@@ -92,19 +90,19 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 43 mins        ████████████████████░░░░░   81.94 % 
-Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 % 
-Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.84 % 
-Git Config               4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.55 % 
-Git Attributes File      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Python                   1 hr 43 mins        █████████████████████░░░░   84.80 % 
+Markdown                 9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.73 % 
+Other                    8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.89 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
+Git Attributes File      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🔥 Editors: 
-PyCharmCommunityEdition  1 hr 18 mins        ███████████████░░░░░░░░░░   61.97 % 
-PyCharm                  33 mins             ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-VS Code                  14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.70 % 
+PyCharmCommunityEdition  1 hr 18 mins        ████████████████░░░░░░░░░   64.10 % 
+PyCharm                  33 mins             ███████░░░░░░░░░░░░░░░░░░   27.26 % 
+VS Code                  10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.64 % 
 
 💻 Operating System: 
-Windows                  2 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 2 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -119,7 +117,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 26/02/2025 18:42:11 UTC
+ Last Updated on 27/02/2025 18:42:32 UTC
 <!--END_SECTION:waka-->
 
 ---
