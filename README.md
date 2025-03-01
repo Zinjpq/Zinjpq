@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 24 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,20 +92,18 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   2 hrs 4 mins        ██████████████████░░░░░░░   70.94 % 
-Other                    41 mins             ██████░░░░░░░░░░░░░░░░░░░   23.87 % 
-Markdown                 8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
-Git Attributes File      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Python                   1 hr 35 mins        █████████████████░░░░░░░░   69.80 % 
+Other                    41 mins             ████████░░░░░░░░░░░░░░░░░   30.14 % 
+Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-PyCharmCommunityEdition  1 hr 33 mins        █████████████░░░░░░░░░░░░   53.05 % 
-MATLABR2024a             37 mins             █████░░░░░░░░░░░░░░░░░░░░   21.11 % 
-PyCharm                  35 mins             █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-VS Code                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+PyCharmCommunityEdition  1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.73 % 
+MATLABR2024a             37 mins             ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+PyCharm                  34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
 
 💻 Operating System: 
-Windows                  2 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -120,7 +118,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 28/02/2025 18:42:10 UTC
+ Last Updated on 01/03/2025 18:39:17 UTC
 <!--END_SECTION:waka-->
 
 ---
