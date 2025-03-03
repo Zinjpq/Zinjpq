@@ -90,18 +90,16 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 35 mins        █████████████████░░░░░░░░   69.80 % 
-Other                    41 mins             ████████░░░░░░░░░░░░░░░░░   30.14 % 
-Text                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   44 mins             ██████████████░░░░░░░░░░░   54.29 % 
+Other                    37 mins             ███████████░░░░░░░░░░░░░░   45.71 % 
 
 🔥 Editors: 
-PyCharmCommunityEdition  1 hr 5 mins         ████████████░░░░░░░░░░░░░   47.73 % 
-MATLABR2024a             37 mins             ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-PyCharm                  34 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+MATLABR2024a             37 mins             ███████████░░░░░░░░░░░░░░   45.06 % 
+PyCharmCommunityEdition  30 mins             █████████░░░░░░░░░░░░░░░░   36.84 % 
+PyCharm                  14 mins             █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
 
 💻 Operating System: 
-Windows                  2 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 22 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -116,7 +114,7 @@ C                        1 repo              █████░░░░░░�
 
 
 
- Last Updated on 02/03/2025 18:40:57 UTC
+ Last Updated on 03/03/2025 18:41:29 UTC
 <!--END_SECTION:waka-->
 
 ---
