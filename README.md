@@ -47,40 +47,42 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-11%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-12%20hrs%2042%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-570.6%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-568.1%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 22 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 6 Public Repositories 
+> 📜 5 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
-🌆 Daytime                66 commits          ██████████░░░░░░░░░░░░░░░   41.51 % 
-🌃 Evening                56 commits          █████████░░░░░░░░░░░░░░░░   35.22 % 
-🌙 Night                  19 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+🌆 Daytime                65 commits          ███████████░░░░░░░░░░░░░░   42.48 % 
+🌃 Evening                54 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
+🌙 Night                  16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
 ```
-📅 **I'm Most Productive on Thursday** 
+📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Tuesday                  24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Wednesday                31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Thursday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
-Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.09 % 
-Sunday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
+Tuesday                  23 commits          ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Wednesday                30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Thursday                 30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.61 % 
+Friday                   20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+Saturday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
 ```
 
 
@@ -90,35 +92,35 @@ Sunday                   20 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 32 mins       ████████████████░░░░░░░░░   63.09 % 
-Python                   1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   33.33 % 
-C++                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
-Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+Other                    3 hrs 25 mins       ███████████████░░░░░░░░░░   61.38 % 
+Python                   1 hr 53 mins        ████████░░░░░░░░░░░░░░░░░   33.76 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+C++                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
+Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-MATLABR2024a             1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   39.56 % 
-PyCharmCommunityEdition  1 hr 22 mins        █████████░░░░░░░░░░░░░░░░   34.15 % 
-Notion                   49 mins             █████░░░░░░░░░░░░░░░░░░░░   20.41 % 
-PyCharm                  5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.30 % 
-VS Code                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+PyCharmCommunityEdition  1 hr 41 mins        ████████░░░░░░░░░░░░░░░░░   30.36 % 
+MATLABR2024a             1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.51 % 
+Notion                   1 hr 35 mins        ███████░░░░░░░░░░░░░░░░░░   28.37 % 
+PyCharm                  26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+VS Code                  12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 
 💻 Operating System: 
-Windows                  4 hrs 1 min         █████████████████████████   100.00 % 
+Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in TypeScript** 
 
 ```text
 TypeScript               2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
-XSLT                     1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+C                        2 repos             ██████████░░░░░░░░░░░░░░░   40.00 % 
 Python                   1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-C                        1 repo              █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
 ```
 
 
 
 
- Last Updated on 05/03/2025 18:43:25 UTC
+ Last Updated on 06/03/2025 18:42:24 UTC
 <!--END_SECTION:waka-->
 
 ---
