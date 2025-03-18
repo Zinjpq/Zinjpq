@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-28%20hrs%209%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-31%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,21 +92,21 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    8 hrs 9 mins        ██████████████████████░░░   88.31 % 
-C++                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
-Arduino                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
-Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Other                    10 hrs 8 mins       ███████████████████████░░   90.37 % 
+C++                      54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+Python                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
+Arduino                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+Objective-C              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 
 🔥 Editors: 
-MATLABR2024a             6 hrs 17 mins       █████████████████░░░░░░░░   67.97 % 
-Notion                   1 hr 52 mins        █████░░░░░░░░░░░░░░░░░░░░   20.21 % 
-VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-PyCharmCommunityEdition  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
-PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+MATLABR2024a             8 hrs 8 mins        ██████████████████░░░░░░░   72.48 % 
+Notion                   1 hr 59 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.79 % 
+VS Code                  54 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.05 % 
+PyCharmCommunityEdition  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+PyCharm                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
 
 💻 Operating System: 
-Windows                  9 hrs 14 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 13 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +119,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 17/03/2025 18:41:58 UTC
+ Last Updated on 18/03/2025 18:44:01 UTC
 <!--END_SECTION:waka-->
 
 ---
