@@ -90,20 +90,19 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    11 hrs 9 mins       ███████████████████████░░   90.94 % 
-C++                      44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Other                    9 hrs 27 mins       ████████████████████████░   96.19 % 
+Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.08 % 
+Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 🔥 Editors: 
-MATLABR2024a             8 hrs 26 mins       █████████████████░░░░░░░░   68.86 % 
-Notion                   2 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.99 % 
-VS Code                  44 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
-PyCharmCommunityEdition  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.56 % 
-Figma                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+MATLABR2024a             7 hrs 55 mins       ████████████████████░░░░░   80.55 % 
+Notion                   1 hr 31 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.53 % 
+PyCharmCommunityEdition  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
+Figma                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 💻 Operating System: 
-Windows                  12 hrs 16 mins      █████████████████████████   100.00 % 
+Windows                  9 hrs 50 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +115,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 22/03/2025 18:39:41 UTC
+ Last Updated on 23/03/2025 18:40:24 UTC
 <!--END_SECTION:waka-->
 
 ---
