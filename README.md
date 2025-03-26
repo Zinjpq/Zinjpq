@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-38%20hrs%2015%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-39%20hrs%2016%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,8 +56,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,19 +90,14 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    6 hrs 37 mins       ████████████████████████░   94.65 % 
-Python                   18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-Image (svg)              4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Other                    7 hrs 17 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-MATLABR2024a             5 hrs 12 mins       ███████████████████░░░░░░   74.35 % 
-Notion                   1 hr 24 mins        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-PyCharmCommunityEdition  18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Figma                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+MATLABR2024a             5 hrs 55 mins       ████████████████████░░░░░   81.12 % 
+Notion                   1 hr 22 mins        █████░░░░░░░░░░░░░░░░░░░░   18.88 % 
 
 💻 Operating System: 
-Windows                  7 hrs               █████████████████████████   100.00 % 
+Windows                  7 hrs 17 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -117,7 +110,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 25/03/2025 18:43:48 UTC
+ Last Updated on 26/03/2025 18:43:37 UTC
 <!--END_SECTION:waka-->
 
 ---
