@@ -57,6 +57,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 22 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -90,14 +92,14 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    5 hrs 48 mins       █████████████████████████   100.00 % 
+Other                    5 hrs 9 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-MATLABR2024a             5 hrs 3 mins        ██████████████████████░░░   87.22 % 
-Notion                   44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+MATLABR2024a             5 hrs 3 mins        █████████████████████████   98.20 % 
+Notion                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
 
 💻 Operating System: 
-Windows                  5 hrs 48 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -110,7 +112,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 28/03/2025 18:45:15 UTC
+ Last Updated on 29/03/2025 18:40:24 UTC
 <!--END_SECTION:waka-->
 
 ---
