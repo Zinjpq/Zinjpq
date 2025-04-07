@@ -92,21 +92,21 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    3 hrs 10 mins       ██████████████████░░░░░░░   71.00 % 
-C++                      39 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.84 % 
-Python                   34 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-MATLAB                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    1 hr 57 mins        ███████████████░░░░░░░░░░   60.08 % 
+C++                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
+Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
+Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
+MATLAB                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-Notion                   1 hr 47 mins        ██████████░░░░░░░░░░░░░░░   39.91 % 
-MATLABR2024a             1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   30.11 % 
-VS Code                  59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.98 % 
-PyCharm                  14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-PyCharmCommunityEdition  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
+Notion                   1 hr 40 mins        █████████████░░░░░░░░░░░░   51.57 % 
+VS Code                  59 mins             ████████░░░░░░░░░░░░░░░░░   30.26 % 
+PyCharm                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
+MATLABR2024a             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
+PyCharmCommunityEdition  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
 
 💻 Operating System: 
-Windows                  4 hrs 28 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +119,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 06/04/2025 18:40:28 UTC
+ Last Updated on 07/04/2025 18:42:06 UTC
 <!--END_SECTION:waka-->
 
 ---
