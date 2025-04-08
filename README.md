@@ -57,8 +57,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 22 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -92,21 +90,20 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    1 hr 57 mins        ███████████████░░░░░░░░░░   60.08 % 
-C++                      39 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Python                   34 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.81 % 
-Markdown                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-MATLAB                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+Other                    1 hr 34 mins        ████████████████░░░░░░░░░   62.57 % 
+Python                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
+C++                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Notion                   1 hr 40 mins        █████████████░░░░░░░░░░░░   51.57 % 
-VS Code                  59 mins             ████████░░░░░░░░░░░░░░░░░   30.26 % 
-PyCharm                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 % 
-MATLABR2024a             13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-PyCharmCommunityEdition  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 % 
+Notion                   1 hr 28 mins        ███████████████░░░░░░░░░░   58.41 % 
+VS Code                  37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
+PyCharm                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
+PyCharmCommunityEdition  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
+MATLABR2024a             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
 
 💻 Operating System: 
-Windows                  3 hrs 15 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +116,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 07/04/2025 18:42:06 UTC
+ Last Updated on 08/04/2025 18:44:33 UTC
 <!--END_SECTION:waka-->
 
 ---
