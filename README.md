@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-45%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-46%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 22 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,20 +92,16 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ████████████████░░░░░░░░░   62.57 % 
-Python                   34 mins             ██████░░░░░░░░░░░░░░░░░░░   22.98 % 
-C++                      21 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
-textmate                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Other                    3 hrs 8 mins        ███████████████████████░░   93.35 % 
+C++                      13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 🔥 Editors: 
-Notion                   1 hr 28 mins        ███████████████░░░░░░░░░░   58.41 % 
-VS Code                  37 mins             ██████░░░░░░░░░░░░░░░░░░░   24.97 % 
-PyCharm                  14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.83 % 
-PyCharmCommunityEdition  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 % 
-MATLABR2024a             3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.41 % 
+Notion                   1 hr 41 mins        █████████████░░░░░░░░░░░░   50.51 % 
+MATLABR2024a             1 hr 26 mins        ███████████░░░░░░░░░░░░░░   42.84 % 
+VS Code                  13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.65 % 
 
 💻 Operating System: 
-Windows                  2 hrs 31 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -116,7 +114,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 08/04/2025 18:44:33 UTC
+ Last Updated on 09/04/2025 18:43:51 UTC
 <!--END_SECTION:waka-->
 
 ---
