@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-49%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-51%20hrs%2027%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,8 +56,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,15 +90,15 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    4 hrs 7 mins        █████████████████████████   100.00 % 
+Other                    6 hrs 9 mins        █████████████████████████   100.00 % 
 
 🔥 Editors: 
-PDS                      1 hr 44 mins        ███████████░░░░░░░░░░░░░░   42.13 % 
-MATLABR2024a             1 hr 22 mins        ████████░░░░░░░░░░░░░░░░░   33.34 % 
-Notion                   1 hr                ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+PDS                      3 hrs 57 mins       ████████████████░░░░░░░░░   64.45 % 
+MATLABR2024a             1 hr 22 mins        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
+Notion                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
 
 💻 Operating System: 
-Windows                  4 hrs 7 mins        █████████████████████████   100.00 % 
+Windows                  6 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -113,7 +111,7 @@ C                        1 repo              ███████████�
 
 
 
- Last Updated on 12/04/2025 18:40:30 UTC
+ Last Updated on 13/04/2025 18:40:46 UTC
 <!--END_SECTION:waka-->
 
 ---
