@@ -47,17 +47,17 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-61%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-62%20hrs%209%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-640.2%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-640.4%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 26 Contributions in the Year 2025
+> 🏆 28 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-🌆 Daytime                48 commits          █████████░░░░░░░░░░░░░░░░   35.82 % 
-🌃 Evening                54 commits          ██████████░░░░░░░░░░░░░░░   40.30 % 
-🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+🌆 Daytime                48 commits          █████████░░░░░░░░░░░░░░░░   35.29 % 
+🌃 Evening                56 commits          ██████████░░░░░░░░░░░░░░░   41.18 % 
+🌙 Night                  14 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
 ```
 📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-Tuesday                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
-Wednesday                28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.90 % 
-Thursday                 29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
-Saturday                 22 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-Sunday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+Tuesday                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Wednesday                28 commits          █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
+Thursday                 29 commits          █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.65 % 
+Sunday                   18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
 ```
 
 
@@ -92,21 +92,21 @@ Sunday                   18 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    10 hrs 5 mins       █████████████████░░░░░░░░   69.89 % 
-Groff                    4 hrs 19 mins       ███████░░░░░░░░░░░░░░░░░░   29.93 % 
-C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Other                    8 hrs 29 mins       ████████████████░░░░░░░░░   65.61 % 
+Groff                    4 hrs 25 mins       █████████░░░░░░░░░░░░░░░░   34.19 % 
+C++                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-PDS                      5 hrs 22 mins       █████████░░░░░░░░░░░░░░░░   37.17 % 
-ArduinoIDE               4 hrs 27 mins       ████████░░░░░░░░░░░░░░░░░   30.91 % 
-MATLABR2024a             3 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   25.77 % 
-Notion                   50 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.87 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
+ArduinoIDE               4 hrs 34 mins       █████████░░░░░░░░░░░░░░░░   35.40 % 
+PDS                      4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   33.47 % 
+MATLABR2024a             3 hrs 43 mins       ███████░░░░░░░░░░░░░░░░░░   28.78 % 
+Notion                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
+VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 
 💻 Operating System: 
-Windows                  14 hrs 26 mins      █████████████████████████   100.00 % 
+Windows                  12 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -118,7 +118,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 18/04/2025 18:43:00 UTC
+ Last Updated on 19/04/2025 18:40:26 UTC
 <!--END_SECTION:waka-->
 
 ---
