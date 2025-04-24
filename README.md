@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-80%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2013%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,8 +56,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 37 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +66,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.41 % 
-🌆 Daytime                53 commits          █████████░░░░░░░░░░░░░░░░   36.55 % 
-🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   41.38 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.66 % 
+🌞 Morning                18 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
+🌆 Daytime                55 commits          █████████░░░░░░░░░░░░░░░░   37.41 % 
+🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   40.82 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 % 
-Tuesday                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-Wednesday                34 commits          ██████░░░░░░░░░░░░░░░░░░░   23.45 % 
-Thursday                 29 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Sunday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.48 % 
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 % 
+Tuesday                  15 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.20 % 
+Wednesday                34 commits          ██████░░░░░░░░░░░░░░░░░░░   23.13 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   21.09 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Saturday                 24 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
+Sunday                   21 commits          ████░░░░░░░░░░░░░░░░░░░░░   14.29 % 
 ```
 
 
@@ -92,21 +90,21 @@ Sunday                   21 commits          ████░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Groff                    13 hrs 54 mins      ███████████████░░░░░░░░░░   59.53 % 
-Python                   4 hrs 17 mins       █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
-Other                    3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Markdown                 1 hr 13 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
-Objective-C              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+Groff                    14 hrs 53 mins      ███████████████░░░░░░░░░░   59.70 % 
+Python                   4 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.19 % 
+Other                    2 hrs 42 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.86 % 
+Markdown                 1 hr 26 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
+Objective-C              32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 
 🔥 Editors: 
-ArduinoIDE               14 hrs 11 mins      ███████████████░░░░░░░░░░   60.76 % 
-VS Code                  3 hrs 6 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-PyCharmCommunityEdition  2 hrs 56 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-PDS                      2 hrs 19 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
-PyCharm                  47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+ArduinoIDE               15 hrs 22 mins      ███████████████░░░░░░░░░░   61.64 % 
+PyCharmCommunityEdition  3 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.52 % 
+VS Code                  3 hrs 21 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.48 % 
+PDS                      1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
+PyCharm                  51 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 
 💻 Operating System: 
-Windows                  23 hrs 21 mins      █████████████████████████   100.00 % 
+Windows                  24 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -118,7 +116,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 23/04/2025 18:46:27 UTC
+ Last Updated on 24/04/2025 18:44:34 UTC
 <!--END_SECTION:waka-->
 
 ---
