@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-87%20hrs%2013%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-86%20hrs%2017%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 39 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -116,7 +118,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 24/04/2025 18:44:34 UTC
+ Last Updated on 25/04/2025 18:43:45 UTC
 <!--END_SECTION:waka-->
 
 ---
