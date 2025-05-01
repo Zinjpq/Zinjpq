@@ -49,15 +49,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,21 +90,21 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Groff                    16 hrs 15 mins      █████████████████░░░░░░░░   68.57 % 
-Python                   4 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
-Markdown                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.93 % 
-C                        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.23 % 
+Groff                    13 hrs 48 mins      █████████████████░░░░░░░░   69.23 % 
+Python                   4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
+Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
+C                        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 
 🔥 Editors: 
-ArduinoIDE               16 hrs 32 mins      █████████████████░░░░░░░░   69.76 % 
-PyCharmCommunityEdition  3 hrs 53 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.40 % 
-PyCharm                  1 hr 41 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
-MATLABR2024a             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.47 % 
-VS Code                  30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+ArduinoIDE               14 hrs 2 mins       ██████████████████░░░░░░░   70.35 % 
+PyCharmCommunityEdition  3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+PyCharm                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
+MATLABR2024a             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+PDS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
 
 💻 Operating System: 
-Windows                  23 hrs 42 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -118,7 +116,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 30/04/2025 18:44:48 UTC
+ Last Updated on 01/05/2025 18:44:41 UTC
 <!--END_SECTION:waka-->
 
 ---
