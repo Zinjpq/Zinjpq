@@ -47,8 +47,6 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-100%20hrs%207%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.0%20thousand%20lines%20of%20code-blue)
@@ -63,50 +61,6 @@
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌆 Daytime                61 commits          ██████████░░░░░░░░░░░░░░░   39.35 % 
-🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   38.71 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Wednesday                34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Groff                    13 hrs 48 mins      █████████████████░░░░░░░░   69.23 % 
-Python                   4 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Other                    1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
-Markdown                 26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-C                        17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
-
-🔥 Editors: 
-ArduinoIDE               14 hrs 2 mins       ██████████████████░░░░░░░   70.35 % 
-PyCharmCommunityEdition  3 hrs 13 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-PyCharm                  1 hr 27 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.33 % 
-MATLABR2024a             35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
-PDS                      17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.47 % 
-
-💻 Operating System: 
-Windows                  19 hrs 57 mins      █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -116,7 +70,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 01/05/2025 18:44:41 UTC
+ Last Updated on 02/05/2025 18:43:54 UTC
 <!--END_SECTION:waka-->
 
 ---
