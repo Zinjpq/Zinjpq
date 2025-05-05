@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-101%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-104%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -92,19 +92,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 8 mins        ████████████████░░░░░░░░░   63.88 % 
-Groff                    48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
-Python                   24 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    5 hrs 25 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-MATLABR2024a             2 hrs 8 mins        ████████████████░░░░░░░░░   63.82 % 
-ArduinoIDE               48 mins             ██████░░░░░░░░░░░░░░░░░░░   23.99 % 
-PyCharmCommunityEdition  15 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.94 % 
-PyCharm                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 % 
+MATLABR2024a             5 hrs 25 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -116,7 +110,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 04/05/2025 18:42:41 UTC
+ Last Updated on 05/05/2025 18:43:01 UTC
 <!--END_SECTION:waka-->
 
 ---
