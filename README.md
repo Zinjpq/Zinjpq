@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-110%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-113%20hrs%2047%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,13 +92,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    10 hrs 13 mins      █████████████████████████   100.00 % 
+Other                    13 hrs 40 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-MATLABR2024a             10 hrs 13 mins      █████████████████████████   100.00 % 
+MATLABR2024a             13 hrs 40 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  10 hrs 13 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 40 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -108,7 +110,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 06/05/2025 18:44:16 UTC
+ Last Updated on 07/05/2025 18:44:48 UTC
 <!--END_SECTION:waka-->
 
 ---
