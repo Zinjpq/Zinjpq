@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-114%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%202%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -90,17 +90,19 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    13 hrs 42 mins      █████████████████████████   98.33 % 
-Python                   13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    12 hrs 24 mins      █████████████████████░░░░   85.65 % 
+Python                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
+Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-MATLABR2024a             13 hrs 40 mins      ████████████████████████░   97.99 % 
-PyCharmCommunityEdition  15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.87 % 
-PyCharm                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+MATLABR2024a             12 hrs 14 mins      █████████████████████░░░░   84.48 % 
+PyCharmCommunityEdition  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
+PyCharm                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  13 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 29 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -112,7 +114,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 09/05/2025 18:44:44 UTC
+ Last Updated on 10/05/2025 18:40:57 UTC
 <!--END_SECTION:waka-->
 
 ---
