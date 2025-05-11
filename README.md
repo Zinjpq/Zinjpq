@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%202%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-116%20hrs%2054%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
@@ -56,6 +56,8 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
+ > 
+> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -90,19 +92,21 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    12 hrs 24 mins      █████████████████████░░░░   85.65 % 
-Python                   1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.95 % 
-Markdown                 20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.39 % 
+Other                    12 hrs 17 mins      ████████████████████░░░░░   80.68 % 
+Python                   1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-MATLABR2024a             12 hrs 14 mins      █████████████████████░░░░   84.48 % 
-PyCharmCommunityEdition  1 hr 24 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.74 % 
-PyCharm                  48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.55 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+MATLABR2024a             12 hrs 7 mins       ████████████████████░░░░░   79.55 % 
+PyCharmCommunityEdition  2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
+PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
+Figma                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 💻 Operating System: 
-Windows                  14 hrs 29 mins      █████████████████████████   100.00 % 
+Windows                  15 hrs 14 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -114,7 +118,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 10/05/2025 18:40:57 UTC
+ Last Updated on 11/05/2025 18:41:50 UTC
 <!--END_SECTION:waka-->
 
 ---
