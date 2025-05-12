@@ -92,21 +92,21 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    12 hrs 17 mins      ████████████████████░░░░░   80.68 % 
-Python                   1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.59 % 
-Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    9 hrs               ███████████████████░░░░░░   75.36 % 
+Python                   1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.55 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Image (svg)              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
 PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-MATLABR2024a             12 hrs 7 mins       ████████████████████░░░░░   79.55 % 
-PyCharmCommunityEdition  2 hrs 12 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.54 % 
-PyCharm                  49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.39 % 
-Figma                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
+MATLABR2024a             8 hrs 50 mins       ██████████████████░░░░░░░   73.91 % 
+PyCharmCommunityEdition  2 hrs 12 mins       █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
+PyCharm                  49 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.88 % 
+Figma                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 💻 Operating System: 
-Windows                  15 hrs 14 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 57 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -118,7 +118,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 11/05/2025 18:41:50 UTC
+ Last Updated on 12/05/2025 18:45:49 UTC
 <!--END_SECTION:waka-->
 
 ---
