@@ -49,15 +49,13 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%204%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.0%20thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,21 +90,21 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    3 hrs 42 mins       ██████████████░░░░░░░░░░░   54.74 % 
-Python                   1 hr 44 mins        ██████░░░░░░░░░░░░░░░░░░░   25.70 % 
-Markdown                 1 hr 9 mins         ████░░░░░░░░░░░░░░░░░░░░░   17.11 % 
-Image (svg)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Python                   1 hr 44 mins        █████████████░░░░░░░░░░░░   53.02 % 
+Markdown                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   35.29 % 
+Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Image (svg)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-MATLABR2024a             3 hrs 31 mins       █████████████░░░░░░░░░░░░   52.19 % 
-PyCharmCommunityEdition  2 hrs 12 mins       ████████░░░░░░░░░░░░░░░░░   32.74 % 
-PyCharm                  49 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-Figma                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.44 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+PyCharmCommunityEdition  2 hrs 12 mins       █████████████████░░░░░░░░   67.55 % 
+PyCharm                  49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
+Figma                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+MATLABR2024a             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
 
 💻 Operating System: 
-Windows                  6 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -118,7 +116,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 13/05/2025 18:44:46 UTC
+ Last Updated on 14/05/2025 18:44:43 UTC
 <!--END_SECTION:waka-->
 
 ---
