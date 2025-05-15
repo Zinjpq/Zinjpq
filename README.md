@@ -57,6 +57,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 47 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -90,21 +92,21 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   1 hr 44 mins        █████████████░░░░░░░░░░░░   53.02 % 
-Markdown                 1 hr 9 mins         █████████░░░░░░░░░░░░░░░░   35.29 % 
-Other                    13 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
-Image (svg)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Python                   1 hr 30 mins        █████████████░░░░░░░░░░░░   50.21 % 
+Markdown                 1 hr 9 mins         ██████████░░░░░░░░░░░░░░░   38.57 % 
+Other                    10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Image (svg)              9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+PythonStub               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🔥 Editors: 
-PyCharmCommunityEdition  2 hrs 12 mins       █████████████████░░░░░░░░   67.55 % 
-PyCharm                  49 mins             ██████░░░░░░░░░░░░░░░░░░░   25.05 % 
-Figma                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
-MATLABR2024a             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.36 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.00 % 
+PyCharmCommunityEdition  1 hr 57 mins        ████████████████░░░░░░░░░   65.16 % 
+PyCharm                  48 mins             ███████░░░░░░░░░░░░░░░░░░   26.74 % 
+Figma                    9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
+MATLABR2024a             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.09 % 
 
 💻 Operating System: 
-Windows                  3 hrs 16 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs               █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -116,7 +118,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 14/05/2025 18:44:43 UTC
+ Last Updated on 15/05/2025 18:45:57 UTC
 <!--END_SECTION:waka-->
 
 ---
