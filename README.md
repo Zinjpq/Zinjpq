@@ -92,19 +92,15 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Markdown                 48 mins             ████████████████████░░░░░   78.66 % 
-Image (svg)              9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-Other                    2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
-Python                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+Image (svg)              7 mins              ██████████████████░░░░░░░   72.54 % 
+Other                    2 mins              ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 
 🔥 Editors: 
-PyCharmCommunityEdition  48 mins             ████████████████████░░░░░   78.06 % 
-Figma                    9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
-MATLABR2024a             2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
+Figma                    7 mins              ██████████████████░░░░░░░   72.54 % 
+MATLABR2024a             2 mins              ███████░░░░░░░░░░░░░░░░░░   27.46 % 
 
 💻 Operating System: 
-Windows                  1 hr 1 min          █████████████████████████   100.00 % 
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -116,7 +112,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 17/05/2025 18:42:26 UTC
+ Last Updated on 18/05/2025 18:42:29 UTC
 <!--END_SECTION:waka-->
 
 ---
