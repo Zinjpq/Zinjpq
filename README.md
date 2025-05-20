@@ -57,8 +57,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -92,15 +90,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Image (svg)              7 mins              ██████████████████░░░░░░░   72.54 % 
-Other                    2 mins              ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Figma                    7 mins              ██████████████████░░░░░░░   72.54 % 
-MATLABR2024a             2 mins              ███████░░░░░░░░░░░░░░░░░░   27.46 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  9 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -112,7 +108,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 19/05/2025 18:46:13 UTC
+ Last Updated on 20/05/2025 18:46:47 UTC
 <!--END_SECTION:waka-->
 
 ---
