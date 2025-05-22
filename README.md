@@ -47,6 +47,8 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-117%20hrs%2040%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.0%20thousand%20lines%20of%20code-blue)
@@ -55,14 +57,50 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
+🌆 Daytime                61 commits          ██████████░░░░░░░░░░░░░░░   39.35 % 
+🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   38.71 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Wednesday                34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
+Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
+Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Other                    25 mins             ██████████████████░░░░░░░   71.21 % 
+Groff                    10 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+
+🔥 Editors: 
+MATLABR2024a             25 mins             ██████████████████░░░░░░░   71.21 % 
+ArduinoIDE               10 mins             ███████░░░░░░░░░░░░░░░░░░   28.79 % 
+
+💻 Operating System: 
+Windows                  36 mins             █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -72,7 +110,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 21/05/2025 18:45:56 UTC
+ Last Updated on 22/05/2025 18:45:43 UTC
 <!--END_SECTION:waka-->
 
 ---
