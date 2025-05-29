@@ -57,6 +57,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 47 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -90,15 +92,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    9 hrs 19 mins       █████████████████████████   98.17 % 
-Groff                    10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+Other                    8 hrs 53 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-MATLABR2024a             9 hrs 19 mins       █████████████████████████   98.17 % 
-ArduinoIDE               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.83 % 
+MATLABR2024a             8 hrs 53 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  9 hrs 29 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -110,7 +110,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 28/05/2025 18:45:25 UTC
+ Last Updated on 29/05/2025 18:46:05 UTC
 <!--END_SECTION:waka-->
 
 ---
