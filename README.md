@@ -90,13 +90,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    8 hrs 53 mins       █████████████████████████   100.00 % 
+Other                    6 hrs 30 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-MATLABR2024a             8 hrs 53 mins       █████████████████████████   100.00 % 
+MATLABR2024a             6 hrs 30 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -108,7 +108,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 30/05/2025 18:45:51 UTC
+ Last Updated on 31/05/2025 18:43:08 UTC
 <!--END_SECTION:waka-->
 
 ---
