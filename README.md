@@ -92,18 +92,18 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     2 hrs 28 mins       ██████████████████████░░░   89.24 % 
-Other                    16 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-Java module              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Java                     2 hrs 9 mins        ██████████████████████░░░   88.71 % 
+Other                    15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Java module              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🔥 Editors: 
-IntelliJIDEACommunityEdit1 hr 39 mins        ███████████████░░░░░░░░░░   59.78 % 
-IntelliJ IDEA            1 hr 6 mins         ██████████░░░░░░░░░░░░░░░   40.22 % 
+IntelliJIDEACommunityEdit1 hr 32 mins        ████████████████░░░░░░░░░   63.35 % 
+IntelliJ IDEA            53 mins             █████████░░░░░░░░░░░░░░░░   36.65 % 
 
 💻 Operating System: 
-Windows                  2 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +115,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 13/07/2025 18:45:30 UTC
+ Last Updated on 14/07/2025 18:51:14 UTC
 <!--END_SECTION:waka-->
 
 ---
