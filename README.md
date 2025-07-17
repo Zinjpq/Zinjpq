@@ -57,6 +57,8 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
+> 🏆 47 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -90,18 +92,18 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     1 hr 31 mins        █████████████████████░░░░   84.80 % 
-Other                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.35 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
-Java module              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+Java                     1 hr 20 mins        █████████████████████░░░░   83.25 % 
+Other                    15 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Java module              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 % 
+GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 🔥 Editors: 
-IntelliJIDEACommunityEdit1 hr 8 mins         ████████████████░░░░░░░░░   64.23 % 
-IntelliJ IDEA            38 mins             █████████░░░░░░░░░░░░░░░░   35.77 % 
+IntelliJIDEACommunityEdit1 hr 6 mins         █████████████████░░░░░░░░   68.96 % 
+IntelliJ IDEA            30 mins             ████████░░░░░░░░░░░░░░░░░   31.04 % 
 
 💻 Operating System: 
-Windows                  1 hr 47 mins        █████████████████████████   100.00 % 
+Windows                  1 hr 37 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -113,7 +115,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 16/07/2025 18:50:46 UTC
+ Last Updated on 17/07/2025 18:50:36 UTC
 <!--END_SECTION:waka-->
 
 ---
