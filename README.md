@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-129%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-130%20hrs%2053%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -56,8 +56,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 47 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,18 +90,17 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     36 mins             █████████████████░░░░░░░░   69.35 % 
-Other                    15 mins             ███████░░░░░░░░░░░░░░░░░░   28.92 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
-Java module              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
-GitIgnore file           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Other                    1 hr 11 mins        ███████████████████░░░░░░   76.28 % 
+Java                     22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔥 Editors: 
-IntelliJIDEACommunityEdit46 mins             ██████████████████████░░░   88.33 % 
-IntelliJ IDEA            6 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
+MySQLWorkbench           1 hr 11 mins        ███████████████████░░░░░░   76.23 % 
+IntelliJIDEACommunityEdit22 mins             ██████░░░░░░░░░░░░░░░░░░░   23.62 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
 
 💻 Operating System: 
-Windows                  52 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 33 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +112,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 18/07/2025 18:49:19 UTC
+ Last Updated on 19/07/2025 18:46:34 UTC
 <!--END_SECTION:waka-->
 
 ---
