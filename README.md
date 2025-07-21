@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-131%20hrs%2051%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 47 Contributions in the Year 2025
+> 🏆 48 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-🌆 Daytime                61 commits          ██████████░░░░░░░░░░░░░░░   39.35 % 
-🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   38.71 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.03 % 
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   6 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.87 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
-Wednesday                34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.94 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.32 % 
-Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.55 % 
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Wednesday                34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 ```
 
 
@@ -92,17 +92,17 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    1 hr 34 mins        ████████████████████░░░░░   81.05 % 
-Java                     22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.95 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Other                    1 hr 34 mins        ████████████████░░░░░░░░░   62.77 % 
+Java                     56 mins             █████████░░░░░░░░░░░░░░░░   37.22 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-MySQLWorkbench           1 hr 34 mins        ████████████████████░░░░░   81.01 % 
-IntelliJIDEACommunityEdit22 mins             █████░░░░░░░░░░░░░░░░░░░░   18.87 % 
-IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
+MySQLWorkbench           1 hr 34 mins        ████████████████░░░░░░░░░   62.75 % 
+IntelliJIDEACommunityEdit55 mins             █████████░░░░░░░░░░░░░░░░   37.08 % 
+IntelliJ IDEA            0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
 
 💻 Operating System: 
-Windows                  1 hr 56 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 30 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -114,7 +114,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 20/07/2025 18:47:03 UTC
+ Last Updated on 21/07/2025 18:51:02 UTC
 <!--END_SECTION:waka-->
 
 ---
