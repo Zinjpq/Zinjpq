@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-134%20hrs%2017%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2012%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,20 +92,21 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     2 hrs 18 mins       ████████████░░░░░░░░░░░░░   46.52 % 
-Other                    2 hrs 12 mins       ███████████░░░░░░░░░░░░░░   44.75 % 
-Java Properties          23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Properties               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.32 % 
-XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+Java                     3 hrs 40 mins       █████████████░░░░░░░░░░░░   53.48 % 
+Other                    2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
+Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
+HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🔥 Editors: 
-IntelliJIDEACommunityEdit2 hrs 19 mins       ████████████░░░░░░░░░░░░░   47.11 % 
-MySQLWorkbench           2 hrs 4 mins        ██████████░░░░░░░░░░░░░░░   41.83 % 
-IntelliJ IDEA            32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.00 % 
-Postman                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+IntelliJIDEACommunityEdit3 hrs 34 mins       █████████████░░░░░░░░░░░░   51.97 % 
+MySQLWorkbench           2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
+IntelliJ IDEA            58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
+ArduinoIDE               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  4 hrs 56 mins       █████████████████████████   100.00 % 
+Windows                  6 hrs 51 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -117,7 +118,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 22/07/2025 18:50:57 UTC
+ Last Updated on 23/07/2025 18:50:17 UTC
 <!--END_SECTION:waka-->
 
 ---
