@@ -90,21 +90,21 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Java                     3 hrs 40 mins       █████████████░░░░░░░░░░░░   53.48 % 
-Other                    2 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   35.50 % 
-Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.20 % 
-HTML                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
+Java                     3 hrs 18 mins       ████████████████░░░░░░░░░   62.19 % 
+Other                    1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   23.57 % 
+Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.17 % 
+XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
 
 🔥 Editors: 
-IntelliJIDEACommunityEdit3 hrs 34 mins       █████████████░░░░░░░░░░░░   51.97 % 
-MySQLWorkbench           2 hrs 10 mins       ████████░░░░░░░░░░░░░░░░░   31.70 % 
-IntelliJ IDEA            58 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.25 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.70 % 
-ArduinoIDE               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+IntelliJIDEACommunityEdit3 hrs 12 mins       ███████████████░░░░░░░░░░   60.26 % 
+MySQLWorkbench           59 mins             █████░░░░░░░░░░░░░░░░░░░░   18.67 % 
+IntelliJ IDEA            58 mins             █████░░░░░░░░░░░░░░░░░░░░   18.37 % 
+VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
+ArduinoIDE               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 💻 Operating System: 
-Windows                  6 hrs 51 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 18 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -116,7 +116,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 25/07/2025 18:50:21 UTC
+ Last Updated on 26/07/2025 18:47:19 UTC
 <!--END_SECTION:waka-->
 
 ---
