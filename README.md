@@ -47,8 +47,6 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-136%20hrs%2012%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.0%20thousand%20lines%20of%20code-blue)
@@ -57,58 +55,12 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
-🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   39.74 % 
-🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-Wednesday                34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
-Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
-Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Java                     2 hrs 44 mins       ████████████████░░░░░░░░░   62.87 % 
-Other                    51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.77 % 
-Java Properties          25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-HTML                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.65 % 
-XML                      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.88 % 
-
-🔥 Editors: 
-IntelliJIDEACommunityEdit2 hrs 38 mins       ███████████████░░░░░░░░░░   60.56 % 
-IntelliJ IDEA            58 mins             ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
-MySQLWorkbench           36 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.79 % 
-VS Code                  6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-ArduinoIDE               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-
-💻 Operating System: 
-Windows                  4 hrs 21 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in C** 
 
 ```text
@@ -118,7 +70,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 28/07/2025 18:52:11 UTC
+ Last Updated on 30/07/2025 18:51:41 UTC
 <!--END_SECTION:waka-->
 
 ---
