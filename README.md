@@ -57,8 +57,6 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 4 Public Repositories 
@@ -92,13 +90,14 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   0 secs              ██████████████████████░░░   88.38 % 
+Markdown                 0 secs              ███░░░░░░░░░░░░░░░░░░░░░░   11.62 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+PyCharm                  0 secs              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -110,7 +109,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 23/08/2025 18:42:17 UTC
+ Last Updated on 24/08/2025 18:43:09 UTC
 <!--END_SECTION:waka-->
 
 ---
