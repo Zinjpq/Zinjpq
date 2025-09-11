@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 48 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,13 +92,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Bash                     2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -110,7 +110,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 10/09/2025 18:44:14 UTC
+ Last Updated on 11/09/2025 18:41:34 UTC
 <!--END_SECTION:waka-->
 
 ---
