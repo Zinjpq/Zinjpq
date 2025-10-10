@@ -92,17 +92,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Python                   36 mins             ███████████████░░░░░░░░░░   61.47 % 
-Bash                     11 mins             █████░░░░░░░░░░░░░░░░░░░░   19.93 % 
-Markdown                 4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-C#                       3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
-C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+C#                       3 mins              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-VS Code                  58 mins             █████████████████████████   100.00 % 
+VS Code                  3 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  58 mins             █████████████████████████   100.00 % 
+Windows                  3 mins              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -114,7 +110,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 09/10/2025 18:44:49 UTC
+ Last Updated on 10/10/2025 18:43:44 UTC
 <!--END_SECTION:waka-->
 
 ---
