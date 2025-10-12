@@ -92,13 +92,13 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C#                       3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  3 mins              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C** 
@@ -110,7 +110,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 11/10/2025 18:38:57 UTC
+ Last Updated on 12/10/2025 18:40:50 UTC
 <!--END_SECTION:waka-->
 
 ---
