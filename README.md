@@ -47,9 +47,9 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%205%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-138%20hrs%207%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.0%20thousand%20lines%20of%20code-blue)
 
@@ -92,13 +92,14 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-C                        32 mins             █████████████████████████   100.00 % 
+C                        32 mins             ████████████████████████░   94.37 % 
+C++                      1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████████████   100.00 % 
+VS Code                  34 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+Windows                  34 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -110,7 +111,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 29/10/2025 18:46:51 UTC
+ Last Updated on 30/10/2025 18:47:14 UTC
 <!--END_SECTION:waka-->
 
 ---
