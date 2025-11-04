@@ -47,6 +47,8 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-147%20hrs%2049%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-641.0%20thousand%20lines%20of%20code-blue)
@@ -63,6 +65,49 @@
  > 
 > 🔑 0 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.82 % 
+🌆 Daytime                62 commits          ██████████░░░░░░░░░░░░░░░   39.74 % 
+🌃 Evening                60 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.97 % 
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.49 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Wednesday                34 commits          █████░░░░░░░░░░░░░░░░░░░░   21.79 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.87 % 
+Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Bangkok
+
+💬 Programming Languages: 
+Other                    7 hrs 52 mins       ████████████████████░░░░░   80.80 % 
+C++                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.68 % 
+Python                   25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 % 
+C                        5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Image (svg)              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+🔥 Editors: 
+Notion                   7 hrs 51 mins       ████████████████████░░░░░   80.72 % 
+VS Code                  1 hr 24 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+PyCharm                  26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
+Figma                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+
+💻 Operating System: 
+Windows                  9 hrs 44 mins       █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in C** 
 
 ```text
@@ -72,7 +117,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 03/11/2025 18:43:09 UTC
+ Last Updated on 04/11/2025 18:46:58 UTC
 <!--END_SECTION:waka-->
 
 ---
