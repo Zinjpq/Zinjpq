@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-159%20hrs%208%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-160%20hrs%2022%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
+> 🏆 0 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,18 +92,18 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 55 mins       ███████████████████░░░░░░   77.74 % 
-C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Markdown                 18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.22 % 
-Eagle                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
-C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Other                    2 hrs 46 mins       ██████████████████░░░░░░░   70.59 % 
+C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
 
 🔥 Editors: 
-Notion                   2 hrs 43 mins       ██████████████████░░░░░░░   72.18 % 
-VS Code                  1 hr 2 mins         ███████░░░░░░░░░░░░░░░░░░   27.82 % 
+Notion                   2 hrs 20 mins       ███████████████░░░░░░░░░░   59.69 % 
+VS Code                  1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.31 % 
 
 💻 Operating System: 
-Windows                  3 hrs 45 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +115,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 19/11/2025 18:46:12 UTC
+ Last Updated on 20/11/2025 18:48:08 UTC
 <!--END_SECTION:waka-->
 
 ---
