@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2025
+> 🏆 48 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -92,18 +92,18 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 46 mins       ██████████████████░░░░░░░   70.59 % 
-C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.91 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.37 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
-C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+Other                    2 hrs 2 mins        ████████████████░░░░░░░░░   63.93 % 
+C++                      21 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+Markdown                 19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.26 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 
 🔥 Editors: 
-Notion                   2 hrs 20 mins       ███████████████░░░░░░░░░░   59.69 % 
-VS Code                  1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   40.31 % 
+Notion                   1 hr 37 mins        █████████████░░░░░░░░░░░░   50.55 % 
+VS Code                  1 hr 35 mins        ████████████░░░░░░░░░░░░░   49.45 % 
 
 💻 Operating System: 
-Windows                  3 hrs 55 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 12 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +115,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 20/11/2025 18:48:08 UTC
+ Last Updated on 21/11/2025 18:43:45 UTC
 <!--END_SECTION:waka-->
 
 ---
