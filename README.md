@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 48 Contributions in the Year 2025
+> 🏆 49 Contributions in the Year 2025
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.58 % 
-🌆 Daytime                65 commits          ██████████░░░░░░░░░░░░░░░   40.88 % 
-🌃 Evening                60 commits          █████████░░░░░░░░░░░░░░░░   37.74 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.81 % 
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+🌆 Daytime                65 commits          ██████████░░░░░░░░░░░░░░░   40.62 % 
+🌃 Evening                61 commits          ██████████░░░░░░░░░░░░░░░   38.12 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.75 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   7 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-Wednesday                37 commits          ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.50 % 
-Friday                   16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.35 % 
-Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Wednesday                37 commits          ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.38 % 
+Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
 ```
 
 
@@ -92,18 +92,18 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 41 mins       █████████████████░░░░░░░░   69.89 % 
-C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
-C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Other                    2 hrs 31 mins       █████████████████░░░░░░░░   68.54 % 
+C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
+Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
 
 🔥 Editors: 
-Notion                   2 hrs 15 mins       ███████████████░░░░░░░░░░   58.72 % 
-VS Code                  1 hr 35 mins        ██████████░░░░░░░░░░░░░░░   41.28 % 
+Notion                   2 hrs 5 mins        ██████████████░░░░░░░░░░░   56.88 % 
+VS Code                  1 hr 35 mins        ███████████░░░░░░░░░░░░░░   43.12 % 
 
 💻 Operating System: 
-Windows                  3 hrs 50 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +115,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 23/11/2025 18:44:08 UTC
+ Last Updated on 24/11/2025 18:48:56 UTC
 <!--END_SECTION:waka-->
 
 ---
