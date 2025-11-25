@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-161%20hrs%2058%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,18 +92,19 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    2 hrs 31 mins       █████████████████░░░░░░░░   68.54 % 
-C++                      21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.53 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.95 % 
-Python                   9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
-C                        8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Other                    2 hrs 32 mins       ██████████████████░░░░░░░   73.08 % 
+Python                   20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.84 % 
+Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.47 % 
+Eagle                    6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+C                        5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
 
 🔥 Editors: 
-Notion                   2 hrs 5 mins        ██████████████░░░░░░░░░░░   56.88 % 
-VS Code                  1 hr 35 mins        ███████████░░░░░░░░░░░░░░   43.12 % 
+Notion                   2 hrs 6 mins        ███████████████░░░░░░░░░░   60.74 % 
+VS Code                  1 hr 10 mins        ████████░░░░░░░░░░░░░░░░░   33.90 % 
+PyCharm                  11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
 
 💻 Operating System: 
-Windows                  3 hrs 40 mins       █████████████████████████   100.00 % 
+Windows                  3 hrs 28 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +116,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 24/11/2025 18:48:56 UTC
+ Last Updated on 25/11/2025 18:47:15 UTC
 <!--END_SECTION:waka-->
 
 ---
