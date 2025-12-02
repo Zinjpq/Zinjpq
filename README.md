@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-171%20hrs%204%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2020%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,21 +92,20 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    8 hrs 35 mins       █████████████████████░░░░   85.29 % 
-Python                   1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Groff                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+Other                    9 hrs 32 mins       █████████████████████░░░░   83.93 % 
+Python                   1 hr 38 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Git Config               6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
+Groff                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
 
 🔥 Editors: 
-Notion                   6 hrs 24 mins       ████████████████░░░░░░░░░   63.73 % 
-KiCadEDA9.0.6            2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   21.42 % 
-VS Code                  1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-PyCharm                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-ArduinoIDE               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
+Notion                   6 hrs 14 mins       ██████████████░░░░░░░░░░░   54.86 % 
+KiCadEDA9.0.6            3 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.95 % 
+VS Code                  1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.35 % 
+ArduinoIDE               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.84 % 
 
 💻 Operating System: 
-Windows                  10 hrs 4 mins       █████████████████████████   100.00 % 
+Windows                  11 hrs 21 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -118,7 +117,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 01/12/2025 18:53:37 UTC
+ Last Updated on 02/12/2025 18:52:20 UTC
 <!--END_SECTION:waka-->
 
 ---
