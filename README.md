@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-173%20hrs%2050%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-174%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -92,18 +92,18 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    9 hrs 26 mins       ██████████████████████░░░   86.27 % 
-Python                   1 hr 28 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Other                    9 hrs 18 mins       ███████████████████████░░   93.07 % 
+Python                   39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Notion                   5 hrs 53 mins       █████████████░░░░░░░░░░░░   53.79 % 
-KiCadEDA9.0.6            3 hrs 33 mins       ████████░░░░░░░░░░░░░░░░░   32.48 % 
-VS Code                  1 hr 30 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.73 % 
+Notion                   5 hrs 45 mins       ██████████████░░░░░░░░░░░   57.54 % 
+KiCadEDA9.0.6            3 hrs 33 mins       █████████░░░░░░░░░░░░░░░░   35.53 % 
+VS Code                  41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +115,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 03/12/2025 18:51:08 UTC
+ Last Updated on 04/12/2025 18:51:40 UTC
 <!--END_SECTION:waka-->
 
 ---
