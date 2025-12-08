@@ -92,18 +92,17 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    5 hrs 28 mins       ███████████████████████░░   90.64 % 
-Python                   31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.83 % 
-Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Other                    5 hrs 15 mins       ███████████████████████░░   90.80 % 
+Python                   30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 % 
+Git Config               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 
 🔥 Editors: 
-Notion                   4 hrs 4 mins        █████████████████░░░░░░░░   67.47 % 
-KiCadEDA9.0.6            1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.18 % 
-VS Code                  33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.36 % 
+Notion                   3 hrs 51 mins       █████████████████░░░░░░░░   66.60 % 
+KiCadEDA9.0.6            1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+VS Code                  31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.20 % 
 
 💻 Operating System: 
-Windows                  6 hrs 2 mins        █████████████████████████   100.00 % 
+Windows                  5 hrs 47 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +114,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 07/12/2025 18:43:59 UTC
+ Last Updated on 08/12/2025 18:49:37 UTC
 <!--END_SECTION:waka-->
 
 ---
