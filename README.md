@@ -92,15 +92,15 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    4 hrs               █████████████████████████   99.81 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    3 hrs 20 mins       █████████████████████████   99.77 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 🔥 Editors: 
-Notion                   4 hrs               █████████████████████████   99.81 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Notion                   3 hrs 20 mins       █████████████████████████   99.77 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
 
 💻 Operating System: 
-Windows                  4 hrs               █████████████████████████   100.00 % 
+Windows                  3 hrs 21 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -112,7 +112,7 @@ C                        2 repos             ███████████�
 
 
 
- Last Updated on 15/12/2025 18:51:49 UTC
+ Last Updated on 16/12/2025 18:51:35 UTC
 <!--END_SECTION:waka-->
 
 ---
