@@ -47,11 +47,11 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-185%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-189%20hrs%2050%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-640.97%20thousand%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -68,21 +68,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.42 % 
-🌆 Daytime                65 commits          ██████████░░░░░░░░░░░░░░░   40.37 % 
-🌃 Evening                62 commits          ██████████░░░░░░░░░░░░░░░   38.51 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
+🌆 Daytime                68 commits          ██████████░░░░░░░░░░░░░░░   41.46 % 
+🌃 Evening                62 commits          █████████░░░░░░░░░░░░░░░░   37.80 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
-Wednesday                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.60 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   19.25 % 
-Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.94 % 
-Saturday                 26 commits          ████░░░░░░░░░░░░░░░░░░░░░   16.15 % 
-Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.04 % 
+Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Wednesday                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
+Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
+Saturday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
+Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
 ```
 
 
@@ -92,25 +92,26 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    3 hrs 53 mins       █████████████████████████   100.00 % 
+Other                    8 hrs 24 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-Notion                   3 hrs 53 mins       █████████████████████████   100.00 % 
+Notion                   8 hrs 24 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  8 hrs 24 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
 
 ```text
-C                        2 repos             █████████████████████████   100.00 % 
+C                        2 repos             █████████████████░░░░░░░░   66.67 % 
+Python                   1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
 ```
 
 
 
 
- Last Updated on 09/01/2026 18:51:54 UTC
+ Last Updated on 10/01/2026 18:47:37 UTC
 <!--END_SECTION:waka-->
 
 ---
