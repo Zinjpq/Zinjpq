@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-200%20hrs%203%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-203%20hrs%2028%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
@@ -92,18 +92,18 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    18 hrs 4 mins       █████████████████████████   99.80 % 
-C                        2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
+Other                    19 hrs 29 mins      █████████████████████████   99.65 % 
+C                        3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 C++                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Notion                   13 hrs 29 mins      ███████████████████░░░░░░   74.53 % 
-VisionIDE                4 hrs 12 mins       ██████░░░░░░░░░░░░░░░░░░░   23.23 % 
-OpenJDKPlatformbinary    22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-VS Code                  2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+Notion                   11 hrs 59 mins      ███████████████░░░░░░░░░░   61.27 % 
+VisionIDE                6 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   34.92 % 
+OpenJDKPlatformbinary    40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 % 
+VS Code                  3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
 
 💻 Operating System: 
-Windows                  18 hrs 6 mins       █████████████████████████   100.00 % 
+Windows                  19 hrs 33 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -116,7 +116,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 14/01/2026 18:54:15 UTC
+ Last Updated on 15/01/2026 18:58:24 UTC
 <!--END_SECTION:waka-->
 
 ---
