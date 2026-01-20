@@ -49,7 +49,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-214%20hrs%2056%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.14%20million%20lines%20of%20code-blue?style=flat)
 
@@ -92,19 +92,19 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    18 hrs 33 mins      ████████████████████████░   94.74 % 
-C                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.98 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    17 hrs 13 mins      ████████████████████████░   94.35 % 
+C                        58 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Notion                   8 hrs 54 mins       ███████████░░░░░░░░░░░░░░   45.42 % 
-VisionIDE                8 hrs 45 mins       ███████████░░░░░░░░░░░░░░   44.65 % 
-VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
-OpenJDKPlatformbinary    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.67 % 
+VisionIDE                8 hrs 23 mins       ████████████░░░░░░░░░░░░░   46.01 % 
+Notion                   7 hrs 54 mins       ███████████░░░░░░░░░░░░░░   43.34 % 
+VS Code                  1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+OpenJDKPlatformbinary    54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.01 % 
 
 💻 Operating System: 
-Windows                  19 hrs 35 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 15 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -117,7 +117,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 19/01/2026 18:52:08 UTC
+ Last Updated on 20/01/2026 19:36:58 UTC
 <!--END_SECTION:waka-->
 
 ---
