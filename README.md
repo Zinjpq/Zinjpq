@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-215%20hrs%2051%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-220%20hrs%2026%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -92,19 +92,19 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    14 hrs 47 mins      ███████████████████████░░   93.70 % 
-C                        56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
+Other                    16 hrs              ████████████████████████░   94.32 % 
+C                        54 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
+Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🔥 Editors: 
-Notion                   8 hrs 12 mins       █████████████░░░░░░░░░░░░   52.01 % 
-VisionIDE                6 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   38.24 % 
-VS Code                  59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
-OpenJDKPlatformbinary    32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 % 
+Notion                   12 hrs 21 mins      ██████████████████░░░░░░░   72.79 % 
+VisionIDE                3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
+VS Code                  57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+OpenJDKPlatformbinary    14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
 
 💻 Operating System: 
-Windows                  15 hrs 47 mins      █████████████████████████   100.00 % 
+Windows                  16 hrs 58 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -117,7 +117,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 21/01/2026 19:02:39 UTC
+ Last Updated on 22/01/2026 18:55:49 UTC
 <!--END_SECTION:waka-->
 
 ---
