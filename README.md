@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,19 +92,17 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    16 hrs 9 mins       ████████████████████████░   97.79 % 
-C                        18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.89 % 
-C++                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
-Batchfile                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Other                    10 hrs 21 mins      ████████████████████████░   94.75 % 
+C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
 
 🔥 Editors: 
-Notion                   13 hrs 28 mins      ████████████████████░░░░░   81.58 % 
-VisionIDE                2 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
-VS Code                  21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
-OpenJDKPlatformbinary    3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
+Notion                   9 hrs 41 mins       ██████████████████████░░░   88.59 % 
+VisionIDE                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
+VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
 
 💻 Operating System: 
-Windows                  16 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -117,7 +115,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 23/01/2026 18:55:02 UTC
+ Last Updated on 24/01/2026 18:49:22 UTC
 <!--END_SECTION:waka-->
 
 ---
