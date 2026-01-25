@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-223%20hrs%2038%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2043%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -57,7 +57,7 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 0 Contributions in the Year 2026
+> 🏆 1 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -68,21 +68,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.20 % 
-🌆 Daytime                68 commits          ██████████░░░░░░░░░░░░░░░   41.46 % 
-🌃 Evening                62 commits          █████████░░░░░░░░░░░░░░░░   37.80 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
+🌞 Morning                20 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+🌆 Daytime                68 commits          ██████████░░░░░░░░░░░░░░░   41.21 % 
+🌃 Evening                63 commits          ██████████░░░░░░░░░░░░░░░   38.18 % 
+🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 ```
 📅 **I'm Most Productive on Wednesday** 
 
 ```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
-Wednesday                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.90 % 
-Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.76 % 
-Saturday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-Sunday                   21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.80 % 
+Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.73 % 
+Wednesday                38 commits          ██████░░░░░░░░░░░░░░░░░░░   23.03 % 
+Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.70 % 
+Saturday                 29 commits          ████░░░░░░░░░░░░░░░░░░░░░   17.58 % 
+Sunday                   22 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
 ```
 
 
@@ -92,17 +92,19 @@ Sunday                   21 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    10 hrs 21 mins      ████████████████████████░   94.75 % 
-C++                      24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
-C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+Other                    8 hrs 7 mins        █████████████████░░░░░░░░   69.04 % 
+C++                      3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+INI                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Notion                   9 hrs 41 mins       ██████████████████████░░░   88.59 % 
-VisionIDE                40 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
-VS Code                  34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+Notion                   7 hrs 47 mins       █████████████████░░░░░░░░   66.16 % 
+VS Code                  3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
+VisionIDE                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
 
 💻 Operating System: 
-Windows                  10 hrs 56 mins      █████████████████████████   100.00 % 
+Windows                  11 hrs 46 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -115,7 +117,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 24/01/2026 18:49:22 UTC
+ Last Updated on 25/01/2026 18:49:08 UTC
 <!--END_SECTION:waka-->
 
 ---
