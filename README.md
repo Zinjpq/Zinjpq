@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-226%20hrs%2043%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%2048%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,19 +92,19 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    8 hrs 7 mins        █████████████████░░░░░░░░   69.04 % 
-C++                      3 hrs 10 mins       ███████░░░░░░░░░░░░░░░░░░   26.90 % 
-INI                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
-C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+Other                    8 hrs 7 mins        ███████████████░░░░░░░░░░   58.62 % 
+C++                      4 hrs 58 mins       █████████░░░░░░░░░░░░░░░░   35.92 % 
+INI                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.28 % 
+C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Notion                   7 hrs 47 mins       █████████████████░░░░░░░░   66.16 % 
-VS Code                  3 hrs 38 mins       ████████░░░░░░░░░░░░░░░░░   30.99 % 
-VisionIDE                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
+Notion                   7 hrs 47 mins       ██████████████░░░░░░░░░░░   56.18 % 
+VS Code                  5 hrs 44 mins       ██████████░░░░░░░░░░░░░░░   41.40 % 
+VisionIDE                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.42 % 
 
 💻 Operating System: 
-Windows                  11 hrs 46 mins      █████████████████████████   100.00 % 
+Windows                  13 hrs 52 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -117,7 +117,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 25/01/2026 18:49:08 UTC
+ Last Updated on 26/01/2026 18:57:08 UTC
 <!--END_SECTION:waka-->
 
 ---
