@@ -92,19 +92,19 @@ Sunday                   22 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    7 hrs 13 mins       ██████████████░░░░░░░░░░░   55.47 % 
-C++                      4 hrs 58 mins       ██████████░░░░░░░░░░░░░░░   38.28 % 
-INI                      35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
-Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+C++                      4 hrs 58 mins       ███████████████░░░░░░░░░░   59.11 % 
+Other                    2 hrs 37 mins       ████████░░░░░░░░░░░░░░░░░   31.24 % 
+INI                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.05 % 
+C                        9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+Python                   3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🔥 Editors: 
-Notion                   6 hrs 52 mins       █████████████░░░░░░░░░░░░   52.86 % 
-VS Code                  5 hrs 47 mins       ███████████░░░░░░░░░░░░░░   44.56 % 
-VisionIDE                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
+VS Code                  5 hrs 47 mins       █████████████████░░░░░░░░   68.80 % 
+Notion                   2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   27.21 % 
+VisionIDE                20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
 
 💻 Operating System: 
-Windows                  13 hrs              █████████████████████████   100.00 % 
+Windows                  8 hrs 25 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C** 
@@ -117,7 +117,7 @@ Python                   1 repo              ████████░░░�
 
 
 
- Last Updated on 28/01/2026 18:57:09 UTC
+ Last Updated on 29/01/2026 19:06:07 UTC
 <!--END_SECTION:waka-->
 
 ---
