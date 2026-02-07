@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-247%20hrs%2049%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-248%20hrs%2038%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,20 +92,20 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    16 hrs 40 mins      ██████████████████████░░░   87.92 % 
-Text                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-C                        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.58 % 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.55 % 
+Other                    16 hrs 10 mins      █████████████████████░░░░   85.09 % 
+Text                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
+C                        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
+Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
 
 🔥 Editors: 
-Notion                   15 hrs 28 mins      ████████████████████░░░░░   81.61 % 
-VS Code                  2 hrs 39 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-OpenJDKPlatformbinary    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+Notion                   14 hrs 58 mins      ████████████████████░░░░░   78.80 % 
+VS Code                  3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
+OpenJDKPlatformbinary    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
 VisionIDE                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
 
 💻 Operating System: 
-Windows                  18 hrs 57 mins      █████████████████████████   100.00 % 
+Windows                  19 hrs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 06/02/2026 19:10:30 UTC
+ Last Updated on 07/02/2026 18:57:00 UTC
 <!--END_SECTION:waka-->
 
 ---
