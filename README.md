@@ -92,20 +92,20 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    16 hrs 10 mins      █████████████████████░░░░   85.09 % 
-Text                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
-Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.17 % 
-C                        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-Git Config               17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
+Other                    12 hrs 15 mins      █████████████████████░░░░   82.28 % 
+Text                     1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Markdown                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 % 
+C                        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.28 % 
+Git Config               5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.66 % 
 
 🔥 Editors: 
-Notion                   14 hrs 58 mins      ████████████████████░░░░░   78.80 % 
-VS Code                  3 hrs 11 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.81 % 
-OpenJDKPlatformbinary    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
-VisionIDE                19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+Notion                   11 hrs 3 mins       ███████████████████░░░░░░   74.25 % 
+VS Code                  2 hrs 59 mins       █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
+OpenJDKPlatformbinary    30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.39 % 
+VisionIDE                19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.22 % 
 
 💻 Operating System: 
-Windows                  19 hrs              █████████████████████████   100.00 % 
+Windows                  14 hrs 54 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +118,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 07/02/2026 18:57:00 UTC
+ Last Updated on 08/02/2026 18:58:29 UTC
 <!--END_SECTION:waka-->
 
 ---
