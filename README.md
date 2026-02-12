@@ -92,20 +92,17 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    6 hrs 34 mins       ██████████████████░░░░░░░   73.82 % 
-Text                     1 hr 18 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.72 % 
-Markdown                 36 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-C                        16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
-Git Config               4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.81 % 
+Other                    3 hrs 36 mins       ██████████████████░░░░░░░   72.33 % 
+Text                     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+Batchfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 
 🔥 Editors: 
-Notion                   6 hrs 12 mins       █████████████████░░░░░░░░   69.69 % 
-VS Code                  2 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   29.31 % 
-OpenJDKPlatformbinary    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
-VisionIDE                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
+Notion                   3 hrs 36 mins       ██████████████████░░░░░░░   72.33 % 
+VS Code                  1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
 
 💻 Operating System: 
-Windows                  8 hrs 53 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 58 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -118,7 +115,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 11/02/2026 19:31:15 UTC
+ Last Updated on 12/02/2026 19:30:59 UTC
 <!--END_SECTION:waka-->
 
 ---
