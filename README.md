@@ -92,17 +92,17 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    3 hrs 36 mins       ██████████████████░░░░░░░   72.33 % 
-Text                     1 hr 18 mins        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-Batchfile                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
+Text                     31 mins             ████████████████░░░░░░░░░   64.28 % 
+Other                    16 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
+Batchfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🔥 Editors: 
-Notion                   3 hrs 36 mins       ██████████████████░░░░░░░   72.33 % 
-VS Code                  1 hr 22 mins        ███████░░░░░░░░░░░░░░░░░░   27.67 % 
+VS Code                  32 mins             █████████████████░░░░░░░░   66.38 % 
+Notion                   16 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
 
 💻 Operating System: 
-Windows                  4 hrs 58 mins       █████████████████████████   100.00 % 
+Windows                  49 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +115,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 12/02/2026 19:30:59 UTC
+ Last Updated on 13/02/2026 19:11:56 UTC
 <!--END_SECTION:waka-->
 
 ---
