@@ -92,17 +92,13 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Text                     31 mins             ████████████████░░░░░░░░░   64.28 % 
-Other                    16 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
-Batchfile                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
-YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  32 mins             █████████████████░░░░░░░░   66.38 % 
-Notion                   16 mins             ████████░░░░░░░░░░░░░░░░░   33.62 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  49 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -115,7 +111,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 13/02/2026 19:11:56 UTC
+ Last Updated on 14/02/2026 18:56:38 UTC
 <!--END_SECTION:waka-->
 
 ---
