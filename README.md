@@ -92,14 +92,14 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    41 hrs 18 mins      █████████████████████████   100.00 % 
+Other                    37 hrs 12 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-AutoCADApplication       30 hrs 41 mins      ███████████████████░░░░░░   74.31 % 
-Notion                   10 hrs 36 mins      ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
+AutoCADApplication       26 hrs 52 mins      ██████████████████░░░░░░░   72.25 % 
+Notion                   10 hrs 19 mins      ███████░░░░░░░░░░░░░░░░░░   27.75 % 
 
 💻 Operating System: 
-Windows                  41 hrs 18 mins      █████████████████████████   100.00 % 
+Windows                  37 hrs 12 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +112,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 21/03/2026 18:57:14 UTC
+ Last Updated on 22/03/2026 18:58:49 UTC
 <!--END_SECTION:waka-->
 
 ---
