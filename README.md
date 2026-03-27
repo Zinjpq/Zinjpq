@@ -47,7 +47,7 @@
 
 ### ⏱️ WakaTime Stats
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-361%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-364%20hrs%2054%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -92,14 +92,14 @@ Sunday                   23 commits          ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Bangkok
 
 💬 Programming Languages: 
-Other                    23 hrs 37 mins      █████████████████████████   100.00 % 
+Other                    18 hrs 22 mins      █████████████████████████   100.00 % 
 
 🔥 Editors: 
-AutoCADApplication       15 hrs 4 mins       ████████████████░░░░░░░░░   63.83 % 
-Notion                   8 hrs 32 mins       █████████░░░░░░░░░░░░░░░░   36.17 % 
+Notion                   10 hrs 56 mins      ███████████████░░░░░░░░░░   59.51 % 
+AutoCADApplication       7 hrs 26 mins       ██████████░░░░░░░░░░░░░░░   40.49 % 
 
 💻 Operating System: 
-Windows                  23 hrs 37 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 22 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -112,7 +112,7 @@ C                        1 repo              ████████░░░�
 
 
 
- Last Updated on 26/03/2026 19:35:06 UTC
+ Last Updated on 27/03/2026 19:13:42 UTC
 <!--END_SECTION:waka-->
 
 ---
