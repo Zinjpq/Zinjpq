@@ -1,121 +1,19 @@
-![MasterHead](https://www.houston-pc.com/wp-content/uploads/2016/05/Custom-Coding-Houston-TX-Houston-PC-Services.png)
+### Hey there! 👋
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2B6EFF&width=400&lines=Hello!+I'm+Zinj+%F0%9F%91%8B" alt="Typing SVG" />
-  </a>
-</h1>
+I'm [Zinj](https://instagram.com/zinj.pq), a fire-protection (PCCC) design engineer based in Hanoi, Vietnam.
 
-<h3 align="center">🚀 Mechatronics Student at UET, VNU</h3>
+I design and build whatever I can imagine — fire-safety systems by day, electronics and small AI agents by night.
 
----
+If an idea pops into my head, chances are I'll prototype it — on a breadboard, in KiCad, or in code.
 
-### 👨‍💻 About Me
-- 🌱 I’m currently learning **IoT, PLC, and more...**
-- ⚡ Fun fact: **I love running, gym, and coding.**
-- ❤️ Contact me via **Pwnagotchi** at this link: [here](https://opwngrid.xyz/search/42b33e009dd32e7d3cd6acb4d17cf5e3cb18f6b2bdc07112ed171d62a1ffeeda).
-- 🤔 I often create **weird and unique projects**.
-- 💬 Feel free to ask me anything [here](https://github.com/Zinjpq/Zinjpq/issues).
----
+My hardware stack is **STM32, ATMEGA, and ESP32** (Keil C, STM32CubeMX, KiCad). On the software side I build fast with **Python** and AI-assisted "vibe coding" in **Claude Code and Gemini CLI**. At work I live in **AutoCAD and Revit**, and right now I'm going deeper into IoT and building automation.
 
-### 🌐 Connect with Me
-<p align="left">
-  <a href="https://instagram.com/zinj.pq" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/_phamquangvinh" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-  </a>
-</p>
+My favorite build so far is an ESP32-CAM license-plate recognizer (OpenCV, >90% accuracy). These days I'm working on **Spendy**, a budgeting app made almost entirely with AI agents.
 
----
+Most of what I make never hits GitHub — it lives on a breadboard or in a CAD file. Feel free to ask me anything [here](https://github.com/Zinjpq/Zinjpq/issues), or find me on [Instagram](https://instagram.com/zinj.pq) and [Discord](https://discord.gg/_phamquangvinh).
 
-### 📊 GitHub Profile Stats
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=zinjpq&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="GitHub Stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinjpq&layout=compact&theme=buefy&hide_border=true" alt="Top Languages" /> |
-| ------------- | ------------- |
-
----
-
-### 🔥 Streak Stats
-
-<p align="center">
-  <img title="🔥 GitHub Streak Stats" alt="GitHub Streak" src="https://github-readme-streak-stats-eight.vercel.app/?user=zinjpq&theme=default&hide_border=true&short_numbers=true" />
-</p>
-
----
-
-### ⏱️ WakaTime Stats
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-467%20hrs%205%20mins-blue?style=flat)
-
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.21%20million%20lines%20of%20code-blue?style=flat)
-
-**🐱 My GitHub Data** 
-
-> 📦 ? Used in GitHub's Storage 
- > 
-> 🏆 6 Contributions in the Year 2026
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 3 Public Repositories 
- > 
-> 🔑 0 Private Repositories 
- > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-🌆 Daytime                72 commits          ██████████░░░░░░░░░░░░░░░   41.86 % 
-🌃 Evening                65 commits          █████████░░░░░░░░░░░░░░░░   37.79 % 
-🌙 Night                  14 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-```
-📅 **I'm Most Productive on Wednesday** 
-
-```text
-Monday                   8 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
-Tuesday                  21 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Wednesday                42 commits          ██████░░░░░░░░░░░░░░░░░░░   24.42 % 
-Thursday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Friday                   16 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.30 % 
-Saturday                 31 commits          █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
-Sunday                   23 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Bangkok
-
-💬 Programming Languages: 
-Other                    28 hrs 24 mins      █████████████████████████   100.00 % 
-
-🔥 Editors: 
-AutoCADApplication       25 hrs 25 mins      ██████████████████████░░░   89.50 % 
-Notion                   2 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
-DockerDesktop            27 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-
-💻 Operating System: 
-Windows                  28 hrs 24 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in Python** 
-
-```text
-Python                   2 repos             █████████████████░░░░░░░░   66.67 % 
-C                        1 repo              ████████░░░░░░░░░░░░░░░░░   33.33 % 
-```
-
-
-
-
- Last Updated on 22/04/2026 19:44:31 UTC
-<!--END_SECTION:waka-->
-
----
-
-**✨ Fun Reminder**: Life is like a code—debug your problems, compile your dreams, and execute your passion! 💻
+**Fun Facts:**
+- I have a white cat named Bạch Tuyết 🐱
+- My alias "Devil" comes from my first cat — it's also my Pwnagotchi that's sniffed 1000+ Wi-Fi networks
+- I've been soldering since high school
+- Hobbies: running, badminton, photography, and building weird, unique things
